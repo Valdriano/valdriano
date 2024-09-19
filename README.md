@@ -1,4 +1,8 @@
-<p align="left">Hello World!!<br>Bem vindo ao meu perfil do Github</p>
+<h1 align="left">Olá bem vindo ao meu perfil do github</h1>
+
+###
+
+<p align="left">Me chamo Valdriano Oliveira<br>Sou especializando em C# e Banco de Dados, em aplicações de front e backend</p>
 
 ###
 
@@ -9,7 +13,13 @@
 
 ###
 
-<div align="left">
+<h2 align="left">Tecnologias</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
@@ -53,6 +63,10 @@
 
 ###
 
+<h2 align="left">Stats</h2>
+
+###
+
 <img src="https://raw.githubusercontent.com/valdriano/valdriano/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -61,6 +75,18 @@
   <a href="https://open.spotify.com/user/valdriano406">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=valdriano406&count=5&unique=true" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
 
 ###
